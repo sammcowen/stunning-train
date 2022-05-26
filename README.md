@@ -1,6 +1,7 @@
 # stunning-train
 📁 My Portfolio built using React
- ![badge](https://img.shields.io/badge/license-MITLicense-brightorange)
+
+![badge](https://img.shields.io/badge/license-MITLicense-brightorange)
   
   ## Table of Contents
   
