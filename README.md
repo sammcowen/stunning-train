@@ -42,7 +42,7 @@
   Follow these steps to properly install this application:
   N/A
 
-  ## Usage 
+  ## Usage 👩🏽‍💻
   Instructions for use:
 
  User can checkout my portfolio at the live deployed site :
@@ -55,6 +55,6 @@
   ## Tests 🧪
   N/A
 
-  ## Questions
+  ## Questions ❓
   Any questions please reach out to me at my [Github](https://github.com/sammcowen)
    or by my email at  sammcowen@gmail.com
