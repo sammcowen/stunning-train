@@ -1,23 +1,19 @@
 import React from 'react';
+import Nav from "../Nav";
+// import Image from '../../assets/images';
+
 
 function Header() {
     return (
         <header>
-        {/* <img src="./assets/images/20210616_170521.jpg" /> */}
+         {/* <img  src={Image} alt = "samm cowen "/> */}
+       
         <h1>Samm Cowen</h1>
-        <nav>
-            <ul>
-                <li>
-                    <a href="#about-me">About Me</a>
-                </li>
-                <li>
-                    <a href="#my-work">My Work</a>
-                </li>
-                <li>
-                    <a href="#contact-me">Contact Me</a>
-                </li>
-            </ul>
-        </nav>
+
+        <Nav>
+
+</Nav>
+    
     </header>
     )
 }
