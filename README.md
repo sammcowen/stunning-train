@@ -9,7 +9,7 @@
 
 -[Description](#Description)
 
--[Demo](#Demo)
+-[Live Site](#Live-Site)
 
 -[Installation](#Installation)
 
@@ -31,12 +31,12 @@
 
   This is my portfolio built using React.JS
   
-  ## Demo 📽️
+  ## Live Site 📽️
   
   
   
   Below is the link to the live deployed site.
-  https://sammcowen.github.io/stunning-train/
+  [Check it out](https://sammcowen.github.io/stunning-train/)
   
 
   ## Installation 💾
@@ -46,7 +46,9 @@
   ## Usage 👩🏽‍💻
   Instructions for use:
 
- User can checkout my portfolio at the live deployed site :
+  User can checkout my portfolio at the live deployed site : [Click Here](https://sammcowen.github.io/stunning-train/)
+  my work can be found by clickin 'My Work' in the navigation links. Users can click the images of my work and be taken tot he live sites of them.
+  My contact information can be found in the 'Contact Me' section on the portfolio. 📱 
 
   ## Contributions 🖋️
   If you would like to contribute to this project, please follow these guidelines: 
