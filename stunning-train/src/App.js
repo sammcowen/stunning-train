@@ -9,7 +9,7 @@ import AboutMe from './components/AboutMe';
 
 function App() {
   return (
-   <div>
+   <div className='container'>
 <Header>
   <Nav>
     </Nav>
