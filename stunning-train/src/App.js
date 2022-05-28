@@ -5,6 +5,7 @@ import Nav from './components/Nav';
 import Project from './components/Project';
 
 import './index.css';
+import AboutMe from './components/AboutMe';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
   <Nav>
     </Nav>
 </Header>
+<AboutMe></AboutMe>
 <Project></Project>
 
 
