@@ -33,9 +33,10 @@
   
   ## Demo 📽️
   
-  Below is a gif of my portfolio 
+  
   
   Below is the link to the live deployed site.
+  https://sammcowen.github.io/stunning-train/
   
 
   ## Installation 💾
