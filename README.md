@@ -46,8 +46,11 @@
   ## Usage 👩🏽‍💻
   Instructions for use:
 
-  User can checkout my portfolio at the live deployed site : [Click Here](https://sammcowen.github.io/stunning-train/)
-  my work can be found by clickin 'My Work' in the navigation links. Users can click the images of my work and be taken tot he live sites of them.
+  User can checkout my portfolio at the live deployed site below
+  
+   [Click Here](https://sammcowen.github.io/stunning-train/)
+   
+  My work can be found by clicking  'My Work' in the navigation links. Users can click the images of my work and be taken tot he live sites of them.
   My contact information can be found in the 'Contact Me' section on the portfolio. 📱 
 
   ## Contributions 🖋️
