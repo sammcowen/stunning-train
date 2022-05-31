@@ -5,6 +5,7 @@ import Weather from '../../assets/images/weather.jpg';
 import Notepad from '../../assets/images/notepad.png';
 import Crypto from '../../assets/images/crypto.jpg';
 import Scheduler from '../../assets/images/scheduler.jpg';
+import Party from '../../assets/images/image.png';
 
 function Project() {
     return (
@@ -14,6 +15,14 @@ function Project() {
                 <h2>Work</h2>
             </div>
             <div class="grid col col-8">
+                <div id="onlyfriends" class="card">
+                    <img src={Party} class="card-img-top"/>
+                    <div class="card-body">
+                        <a href="https://stormy-thicket-02132.herokuapp.com/" target="_blank" class="btn col-12 btn-primary">Party_Hearty<br/>
+                            MongoDB/Express/React/Node.js</a>
+                    </div>
+                </div>
+                <div class="grid col col-8">
                 <div id="onlyfriends" class="card">
                     <img src={Only} class="card-img-top"/>
                     <div class="card-body">
@@ -56,6 +65,7 @@ function Project() {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
         </div>
     );
