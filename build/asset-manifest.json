@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/stunning-train/static/css/main.a2fdfb2c.css",
+    "main.js": "/stunning-train/static/js/main.f123501d.js",
+    "static/js/787.13083997.chunk.js": "/stunning-train/static/js/787.13083997.chunk.js",
+    "static/media/20210616_170521.jpg": "/stunning-train/static/media/20210616_170521.a85cc3f0d3b4d073135c.jpg",
+    "static/media/image.png": "/stunning-train/static/media/image.14baac946336fd0704e7.png",
+    "static/media/crypto.jpg": "/stunning-train/static/media/crypto.d8f3959ccc714dbca44a.jpg",
+    "static/media/weather.jpg": "/stunning-train/static/media/weather.52be3c401cbd6168080d.jpg",
+    "static/media/scheduler.jpg": "/stunning-train/static/media/scheduler.e2094da39faeb7730645.jpg",
+    "static/media/onlyfriends.jpg": "/stunning-train/static/media/onlyfriends.c67795abd3e240746087.jpg",
+    "index.html": "/stunning-train/index.html",
+    "main.a2fdfb2c.css.map": "/stunning-train/static/css/main.a2fdfb2c.css.map",
+    "main.f123501d.js.map": "/stunning-train/static/js/main.f123501d.js.map",
+    "787.13083997.chunk.js.map": "/stunning-train/static/js/787.13083997.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2fdfb2c.css",
+    "static/js/main.f123501d.js"
+  ]
+}
