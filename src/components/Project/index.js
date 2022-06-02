@@ -18,7 +18,7 @@ function Project() {
                 <div id="onlyfriends" class="card">
                     <img src={Party} class="card-img-top"/>
                     <div class="card-body">
-                        <a href="https://stormy-thicket-02132.herokuapp.com/" target="_blank" class="btn col-12 btn-primary">Party_Hearty🎉<br/>
+                        <a href="https://stormy-thicket-02132.herokuapp.com/" target="_blank" class="btn col-12 btn-primary">Party_Hearty<br/>
                             MongoDB/Express/React/Node.js</a>
                     </div>
                 </div>
